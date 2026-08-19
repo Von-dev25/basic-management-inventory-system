@@ -1,4 +1,4 @@
-# Inventory Management System 📦
+# Inventory Management System
 
 A simple inventory system for managing products and stock.
 
